@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadPoolWithCⅪ", "ThreadPoolWithC11\ThreadPoolWithC11.vcxproj", "{D4CA58B8-6FE8-4F9D-8299-E5D5783FE73D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCPHeartPackage", "..\TCPHeartPackage\TCPHeartPackage\TCPHeartPackage\TCPHeartPackage.vcxproj", "{87B149B7-03B5-490D-BA57-D8A38E004AF2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,14 +21,6 @@ Global
 		{D4CA58B8-6FE8-4F9D-8299-E5D5783FE73D}.Release|x64.Build.0 = Release|x64
 		{D4CA58B8-6FE8-4F9D-8299-E5D5783FE73D}.Release|x86.ActiveCfg = Release|Win32
 		{D4CA58B8-6FE8-4F9D-8299-E5D5783FE73D}.Release|x86.Build.0 = Release|Win32
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Debug|x64.ActiveCfg = Debug|x64
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Debug|x64.Build.0 = Debug|x64
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Debug|x86.ActiveCfg = Debug|Win32
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Debug|x86.Build.0 = Debug|Win32
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Release|x64.ActiveCfg = Release|x64
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Release|x64.Build.0 = Release|x64
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Release|x86.ActiveCfg = Release|Win32
-		{87B149B7-03B5-490D-BA57-D8A38E004AF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
